@@ -21,3 +21,6 @@
 <br>
 <br>  This plugin uses the 'snmpwalk' command included with the NET-SNMP package.
 <br>  This nagios plugins comes with ABSOLUTELY NO WARRANTY. So, enjoy ;)
+
+<br><b> ToDo: </b> 
+<br> - Include parms for SNMPv3 
